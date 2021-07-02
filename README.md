@@ -1,6 +1,7 @@
 Hi there 👋
-🔭 I’m currently working on something cool!
-🌱 I’m currently learning with help from docs.github.com
+#🔭 I’m currently working on something cool!
+#🌱 I’m currently learning with help from docs.github.com
+#![advanced-analytics](https://user-images.githubusercontent.com/80346370/124305211-687a2980-db82-11eb-9bde-52e8b3b9aac8.gif)
 💬 Ask me about GitHub
 
 <!--
